@@ -1,0 +1,5 @@
+require("angel.remap")
+require("angel.set")
+require("angel.myFunc")
+print("hello from angel")
+print("")
